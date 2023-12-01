@@ -1,0 +1,14 @@
+C:\Users\simen\source\repos\PPtask1\PPtask1\bin\Debug\net7.0\PPtask1.exe
+C:\Users\simen\source\repos\PPtask1\PPtask1\bin\Debug\net7.0\PPtask1.deps.json
+C:\Users\simen\source\repos\PPtask1\PPtask1\bin\Debug\net7.0\PPtask1.runtimeconfig.json
+C:\Users\simen\source\repos\PPtask1\PPtask1\bin\Debug\net7.0\PPtask1.dll
+C:\Users\simen\source\repos\PPtask1\PPtask1\bin\Debug\net7.0\PPtask1.pdb
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\PPtask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\PPtask1.AssemblyInfoInputs.cache
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\PPtask1.AssemblyInfo.cs
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\PPtask1.csproj.CoreCompileInputs.cache
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\PPtask1.dll
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\refint\PPtask1.dll
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\PPtask1.pdb
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\PPtask1.genruntimeconfig.cache
+C:\Users\simen\source\repos\PPtask1\PPtask1\obj\Debug\net7.0\ref\PPtask1.dll
