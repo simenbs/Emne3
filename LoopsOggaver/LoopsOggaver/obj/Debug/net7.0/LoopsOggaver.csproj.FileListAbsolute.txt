@@ -1,0 +1,14 @@
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\bin\Debug\net7.0\LoopsOggaver.exe
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\bin\Debug\net7.0\LoopsOggaver.deps.json
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\bin\Debug\net7.0\LoopsOggaver.runtimeconfig.json
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\bin\Debug\net7.0\LoopsOggaver.dll
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\bin\Debug\net7.0\LoopsOggaver.pdb
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\LoopsOggaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\LoopsOggaver.AssemblyInfoInputs.cache
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\LoopsOggaver.AssemblyInfo.cs
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\LoopsOggaver.csproj.CoreCompileInputs.cache
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\LoopsOggaver.dll
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\refint\LoopsOggaver.dll
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\LoopsOggaver.pdb
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\LoopsOggaver.genruntimeconfig.cache
+C:\Users\simen\source\repos\LoopsOggaver\LoopsOggaver\obj\Debug\net7.0\ref\LoopsOggaver.dll
