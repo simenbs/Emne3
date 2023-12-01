@@ -1,0 +1,14 @@
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\OrganTransplantasjon2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\OrganTransplantasjon2.AssemblyInfoInputs.cache
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\OrganTransplantasjon2.AssemblyInfo.cs
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\OrganTransplantasjon2.csproj.CoreCompileInputs.cache
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\bin\Debug\net7.0\OrganTransplantasjon2.exe
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\bin\Debug\net7.0\OrganTransplantasjon2.deps.json
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\bin\Debug\net7.0\OrganTransplantasjon2.runtimeconfig.json
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\bin\Debug\net7.0\OrganTransplantasjon2.dll
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\bin\Debug\net7.0\OrganTransplantasjon2.pdb
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\OrganTransplantasjon2.dll
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\refint\OrganTransplantasjon2.dll
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\OrganTransplantasjon2.pdb
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\OrganTransplantasjon2.genruntimeconfig.cache
+C:\Users\simen\source\repos\OrganTransplantasjon2\OrganTransplantasjon2\obj\Debug\net7.0\ref\OrganTransplantasjon2.dll
