@@ -1,0 +1,14 @@
+C:\Users\simen\source\repos\konvertering\konvertering\bin\Debug\net7.0\konvertering.exe
+C:\Users\simen\source\repos\konvertering\konvertering\bin\Debug\net7.0\konvertering.deps.json
+C:\Users\simen\source\repos\konvertering\konvertering\bin\Debug\net7.0\konvertering.runtimeconfig.json
+C:\Users\simen\source\repos\konvertering\konvertering\bin\Debug\net7.0\konvertering.dll
+C:\Users\simen\source\repos\konvertering\konvertering\bin\Debug\net7.0\konvertering.pdb
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\konvertering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\konvertering.AssemblyInfoInputs.cache
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\konvertering.AssemblyInfo.cs
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\konvertering.csproj.CoreCompileInputs.cache
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\konvertering.dll
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\refint\konvertering.dll
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\konvertering.pdb
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\konvertering.genruntimeconfig.cache
+C:\Users\simen\source\repos\konvertering\konvertering\obj\Debug\net7.0\ref\konvertering.dll
