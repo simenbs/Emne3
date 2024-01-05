@@ -1,0 +1,14 @@
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\bin\Debug\net7.0\PPTommyUke7.exe
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\bin\Debug\net7.0\PPTommyUke7.deps.json
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\bin\Debug\net7.0\PPTommyUke7.runtimeconfig.json
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\bin\Debug\net7.0\PPTommyUke7.dll
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\bin\Debug\net7.0\PPTommyUke7.pdb
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\PPTommyUke7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\PPTommyUke7.AssemblyInfoInputs.cache
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\PPTommyUke7.AssemblyInfo.cs
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\PPTommyUke7.csproj.CoreCompileInputs.cache
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\PPTommyUke7.dll
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\refint\PPTommyUke7.dll
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\PPTommyUke7.pdb
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\PPTommyUke7.genruntimeconfig.cache
+C:\Users\simen\source\repos\PPTommyUke7\PPTommyUke7\obj\Debug\net7.0\ref\PPTommyUke7.dll
